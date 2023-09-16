@@ -1,2 +1,2 @@
-# Recommendation_System
- Customer to shop cloth retrieval
+The **trained_models** folder contains saved models for different epochs. Due to time constraint I trained model for 10 epochs.
+The **embeddings.pkl** file contain embeddings of garments from the training data,the **labels.pkl** file contain the corresponding images paths.
